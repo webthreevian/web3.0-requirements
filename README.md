@@ -1,10 +1,10 @@
-# web3.0-requirements
+# Web 3.0 Requirements
 ### Discussion about the WAN (and humans) requirements for a Web 3.0
 
 ## WAN requirements
 - Maximum respect for ***internet neutrality***.
 - Symmetric connection bandwidth between two modem in a range of 100 km and priority to reduced TTL loss. 
-- Connections in a range of 15 km should pass through a maximum of 2 ISPs routers. 
+- Connections in a range of 15 km should pass through a maximum of 3 ISPs routers, brought to 5 in a range of 50 km. *(this rule must be made to conform to real cases)*
 - For 5G connections, a connection passing through the same antenna should be direct. 
 
 ## Human requirements
