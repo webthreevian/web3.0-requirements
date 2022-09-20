@@ -6,6 +6,7 @@
 - Symmetric connection bandwidth between two modem in a range of 100 km and priority to reduced TTL loss. 
 - Connections in a range of 15 km should pass through a maximum of 3 ISPs routers, brought to 5 in a range of 50 km. *(this rule must be made conform to real cases)*
 - For 5G connections, a connection passing through the same antenna should be direct, independently by the providers. 
+- One private IPv6 address for every connection, cabled and mobile, with ports able to listen for packets.
 
 ## Human requirements
 - More a content is viewed, more is shared. If this content is innapropriate must not be viewed and shared. At the same time, contents could be voted for removal in relation to the number of sharers. Could be created more way for providing trust from people about removal through vote delegation, but one human has the same vote value of anyone else, and normally just a human or a important real organization alone couldn't impose removals decisions a priori. 
